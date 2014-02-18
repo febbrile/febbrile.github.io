@@ -1,4 +1,4 @@
-febbrile.github.com
+febbrile.github.io
 ===================
 
-my homepage
+This is the stub project for my homepage
